@@ -4,5 +4,5 @@ Version=1.0
 Type=Application
 Name=The Doll Forum 
 Exec=$HOME/FunWithYAD/tdfdiag.sh
-Icon=$HOME/FunWithYADworstsiteonthenet.png
+Icon=$HOME/FunWithYAD/worstsiteonthenet.png
 
