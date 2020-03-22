@@ -39,7 +39,7 @@ cd FunWithYAD
 
 chmod +x tdfdiag.sh
 
-chnox +x tdf.desktop
+chmod +x tdf.desktop
 
 cp tdf.desktop $HOME/Desktop
 ```
